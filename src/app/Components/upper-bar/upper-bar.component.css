@@ -1,0 +1,29 @@
+
+.container {
+  position: relative;
+  height: 10em;
+}
+.h-fit-content{
+  height:fit-content;
+}
+.w-80-px{
+  width: 80px;
+}
+.rounded-pill {
+  border-radius: 10px !important;
+}
+
+i.fa.fa-search {
+  color: grey !important;
+  font-size: 20px;
+}
+
+.p-1 {
+  padding: unset !important;
+}
+.shadow-sm {
+  box-shadow: 0 7.125px 0.25rem rgba(0,0,1,0.090)!important;
+}
+::placeholder {
+  font-style: italic;
+}
